@@ -1,6 +1,0 @@
-beyong compare 4.0.2 19186 for mac  破解文件 
-在Mac系统下，打开 finder --》进入 application（应用程序，即安装应用的目录） 文件夹 --》找到 beyond compare 应用，右键，选择 『显示包内容』后，进入 Contents 文件夹 --》再进入 MacOS 文件夹 ==》然后，用附件里的文件 替掉 trial.key 文件，重启 beyond compare 即可
-
-支持4.0.5及以下
-
-git222
