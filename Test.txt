@@ -12,10 +12,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:paddingLeft="@dimen/distance_3D"
-        android:paddingRight="@dimen/distance_3D"
         android:paddingTop="@dimen/distance_2D"
         android:paddingBottom="@dimen/distance_2D"
+	android:paddingLeft="@dimen/distance_3D"
+        android:paddingRight="@dimen/distance_3D"
         android:background="@color/base_color_1">
 
         <LinearLayout
@@ -29,7 +29,7 @@
                 android:id="@+id/tv_ct_code_letter"
                 android:gravity="center"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height=“fill_parent”
                 android:textSize="@dimen/text_size_4T"
                 android:textColor="@color/base_text_color_T4"
                 tools:text="ZJCX"/>
